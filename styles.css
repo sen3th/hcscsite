@@ -3,14 +3,15 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
     flex-direction: column;
     background-color: #fff9e4;
 }
 
+h1{
+    text-align: center;
+}
+
 img{
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
+    border-radius: 10%;
     margin-bottom: 20px;
 }
